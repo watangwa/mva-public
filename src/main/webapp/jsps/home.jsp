@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions, Houston,Tx-USA Office.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h4> Server Side IP Address </h4><br>
 
 <% 
 String ip = "";
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
                 Landmark Technology, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		mylandmarktech@gmail.com or dominionsystems@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
