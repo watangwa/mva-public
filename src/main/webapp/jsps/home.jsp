@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Houston,Tx-USA Office.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Landmark Software Solutions, Houston,Tx-USA Office.</h1>
+<h2 align="center">We are developing and supporting quality Software Solutions for millions of clients.
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
 <hr>
 <br>
-	<h1><h4> Server Side IP Address </h4><br>
+	<h1><h2> Server Side IP Address </h2><br>
 
 <% 
 String ip = "";
