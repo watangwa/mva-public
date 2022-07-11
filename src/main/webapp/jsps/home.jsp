@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Landmark Software Solutions, Houston,Tx-USA Office.</h1>
-<h2 align="center">We are developing and supporting quality Software Solutions for millions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
+<h3 align="center">We are developing and supporting quality Software Solutions for millions of clients.
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h3>
 <hr>
 <br>
 	<h1><h2> Server Side IP Address </h2><br>
